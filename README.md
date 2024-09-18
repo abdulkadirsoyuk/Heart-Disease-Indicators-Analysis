@@ -1,7 +1,7 @@
 # Heart-Disease-Indicators-Analysis
 
 Veri Seti: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
-Kaggle: 
+Kaggle: https://www.kaggle.com/code/abdulkadirsoyuk/heart-disease-indicators-analysis
 
 ## Proje Tanıtımı
 
