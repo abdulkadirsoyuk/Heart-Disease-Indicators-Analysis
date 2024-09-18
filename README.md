@@ -34,14 +34,15 @@ Aşağıda, farklı modellerin test doğrulukları ve performans metrikleri bulu
 - **Decision Tree**:
   - Doğruluk: 0.87
 
- - **Linear Regression**:
+- **Linear Regression**:
   - Doğruluk: 0.12
+![Doğruluk Oranı](images/dogruluk.png)
 
 ### Confusion Matrix
-
+![Confusion](images/confusion.png)
 
 ### Kümeleme Sonuçları
-
+![K Means](images/kmeans.png)
 
 
 
